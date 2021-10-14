@@ -18,7 +18,7 @@ public class Login2Test extends BaseTest {
     @Test
     @Description("Тест создания заявки на расход")
     @TmsLink("234")
-    void loginTest() {
+    void loginTest() throws InterruptedException {
         new LoginPage(webDriver)
                 .fillLogin("Applanatest1")
                 .fillPassword("Student2020!")
