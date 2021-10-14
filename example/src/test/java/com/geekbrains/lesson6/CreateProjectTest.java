@@ -15,7 +15,7 @@ public class CreateProjectTest extends BaseTest {
     }
     @Test
     @Description("Тест создания проекта")
-    void createProjectTest() {
+    void createProjectTest() throws InterruptedException {
         new LoginPage(webDriver)
                 .fillLogin("Applanatest1")
                 .fillPassword("Student2020!")
@@ -38,6 +38,6 @@ public class CreateProjectTest extends BaseTest {
 
         webDriverWait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[.='Это значение уже используется.']")));
         Assertions.assertTrue(webDriver.findElement(By.xpath("//span[.='Это значение уже используется.']")).isDisplayed());
-
+        //Thread.sleep(3000);
     }
 }

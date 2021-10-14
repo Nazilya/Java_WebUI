@@ -14,7 +14,7 @@ public class CreateContactTest extends BaseTest {
         webDriver.get("https://crm.geekbrains.space/");
     }
     @Test
-    void createContactTest() {
+    void createContactTest() throws InterruptedException{
         new LoginPage(webDriver)
                 .fillLogin("Applanatest1")
                 .fillPassword("Student2020!")

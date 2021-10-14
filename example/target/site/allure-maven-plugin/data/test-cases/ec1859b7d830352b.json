@@ -1,0 +1,76 @@
+{
+  "uid" : "ec1859b7d830352b",
+  "name" : "shuffleEmptyBoxTest()",
+  "fullName" : "com.geekbrains.lesson4.BoxTest$WhenIsEmpty.shuffleEmptyBoxTest",
+  "historyId" : "cfbc9b19276b2167e382c9614fe5c179",
+  "time" : {
+    "start" : 1634237512952,
+    "stop" : 1634237513112,
+    "duration" : 160
+  },
+  "description" : "Перемешать мячи в коробке",
+  "descriptionHtml" : "<p>Перемешать мячи в коробке</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "createBox",
+    "time" : {
+      "start" : 1634237513026,
+      "stop" : 1634237513053,
+      "duration" : 27
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:com.geekbrains.lesson4.BoxTest]/[nested-class:WhenIsEmpty]/[method:shuffleEmptyBoxTest()]"
+  }, {
+    "name" : "host",
+    "value" : "WIN-37OPUFNO3M0"
+  }, {
+    "name" : "thread",
+    "value" : "7868@WIN-37OPUFNO3M0.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.geekbrains.lesson4.BoxTest$WhenIsEmpty"
+  }, {
+    "name" : "testClass",
+    "value" : "com.geekbrains.lesson4.BoxTest$WhenIsEmpty"
+  }, {
+    "name" : "testMethod",
+    "value" : "shuffleEmptyBoxTest"
+  }, {
+    "name" : "suite",
+    "value" : "com.geekbrains.lesson4.BoxTest.WhenIsEmpty"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec1859b7d830352b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,105 @@
+{
+  "uid" : "142e53990bfaa63a",
+  "name" : "checkNavbarLinkNameTest()",
+  "fullName" : "com.geekbrains.lesson5.Homework.CreateProjectTest.checkNavbarLinkNameTest",
+  "historyId" : "890ec0d1f0fdabfcfcdbad6209d61d96",
+  "time" : {
+    "start" : 1634237620494,
+    "stop" : 1634237685118,
+    "duration" : 64624
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "registerDriver",
+    "time" : {
+      "start" : 1634237620452,
+      "stop" : 1634237620489,
+      "duration" : 37
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setUpBrowser",
+    "time" : {
+      "start" : 1634237620494,
+      "stop" : 1634237675286,
+      "duration" : 54792
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1634237684799,
+      "stop" : 1634237685118,
+      "duration" : 319
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:com.geekbrains.lesson5.Homework.CreateProjectTest]/[method:checkNavbarLinkNameTest()]"
+  }, {
+    "name" : "host",
+    "value" : "WIN-37OPUFNO3M0"
+  }, {
+    "name" : "thread",
+    "value" : "7868@WIN-37OPUFNO3M0.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.geekbrains.lesson5.Homework.CreateProjectTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.geekbrains.lesson5.Homework.CreateProjectTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkNavbarLinkNameTest"
+  }, {
+    "name" : "suite",
+    "value" : "com.geekbrains.lesson5.Homework.CreateProjectTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "142e53990bfaa63a.json",
+  "parameterValues" : [ ]
+}

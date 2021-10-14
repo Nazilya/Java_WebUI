@@ -29,6 +29,7 @@ public class LoginTest {
     }
 
     @Test
+    @Disabled
     @Description("Тест создания заявки на расход")
     void createExpensesTest() throws InterruptedException {
         new LoginPage(webDriver)
@@ -48,7 +49,7 @@ public class LoginTest {
                 .selectPlannedDate("15")
                 .saveAndCloseButtonClick();
         Assertions.assertTrue(webDriver.findElement(By.xpath("//*[.='Заявка на расход сохранена']")).isDisplayed());
-        Thread.sleep(3000);
+
     }
 
     @AfterEach

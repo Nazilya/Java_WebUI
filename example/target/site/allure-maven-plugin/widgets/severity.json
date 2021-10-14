@@ -1,30 +1,360 @@
 [ {
-  "uid" : "b3328ecff3db570f",
+  "uid" : "67cda8ef5907782c",
+  "name" : "iframeTest()",
+  "time" : {
+    "start" : 1634237557977,
+    "stop" : 1634237581138,
+    "duration" : 23161
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98ec7a69a9b9cd65",
+  "name" : "dragAndDropTest()",
+  "time" : {
+    "start" : 1634237518122,
+    "stop" : 1634237542966,
+    "duration" : 24844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ce4b6505cd281ff",
+  "name" : "negativeSquareCalcTest()",
+  "time" : {
+    "start" : 1634237515957,
+    "stop" : 1634237515971,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d37f6c823c95c96",
+  "name" : "removeBallFromEmptyBoxTest()",
+  "time" : {
+    "start" : 1634237513178,
+    "stop" : 1634237513185,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6afd6362b2696cb",
+  "name" : "[2] Cat{age=11, name='moris2'}, false",
+  "time" : {
+    "start" : 1634237515492,
+    "stop" : 1634237515498,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a1819467f61b366",
+  "name" : "addBallTest()",
+  "time" : {
+    "start" : 1634237513198,
+    "stop" : 1634237513219,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83c3a8b4adf898d4",
+  "name" : "shouldAnswerWithTrue1()",
+  "time" : {
+    "start" : 1634237510397,
+    "stop" : 1634237510400,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "660d8c6d7b4d7ddc",
+  "name" : "loginToDiaryWithCookieTest()",
+  "time" : {
+    "start" : 1634237581184,
+    "stop" : 1634237595482,
+    "duration" : 14298
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28ec798b8b4acbb8",
+  "name" : "[1] 2",
+  "time" : {
+    "start" : 1634237515543,
+    "stop" : 1634237515556,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9de8f86f2d10a4eb",
+  "name" : "trueAssumption()",
+  "time" : {
+    "start" : 1634237512697,
+    "stop" : 1634237512719,
+    "duration" : 22
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "142e53990bfaa63a",
+  "name" : "checkNavbarLinkNameTest()",
+  "time" : {
+    "start" : 1634237620494,
+    "stop" : 1634237685118,
+    "duration" : 64624
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9249b2dfd936845f",
   "name" : "createProjectTest()",
   "time" : {
-    "start" : 1634225470256,
-    "stop" : 1634225511689,
-    "duration" : 41433
+    "start" : 1634237756599,
+    "stop" : 1634237788529,
+    "duration" : 31930
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7abc13669b3d70db",
-  "name" : "loginTest()",
+  "uid" : "6833e3fd53202a04",
+  "name" : "[1] Cat{age=10, name='moris'}, true",
   "time" : {
-    "start" : 1634224114074,
-    "stop" : 1634224152097,
-    "duration" : 38023
+    "start" : 1634237515474,
+    "stop" : 1634237515483,
+    "duration" : 9
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "379e0f6159df4e84",
+  "uid" : "f87feb856bb73ccd",
+  "name" : "[1] 1, true",
+  "time" : {
+    "start" : 1634237514625,
+    "stop" : 1634237514726,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e77b7964db9c6563",
+  "name" : "jsExecuteTest()",
+  "time" : {
+    "start" : 1634237718875,
+    "stop" : 1634237732223,
+    "duration" : 13348
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d765819762bf5330",
+  "name" : "[3] 4, false",
+  "time" : {
+    "start" : 1634237514968,
+    "stop" : 1634237514983,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cc05f2ca8d9a546",
+  "name" : "shouldAnswerWithTrue1()",
+  "time" : {
+    "start" : 1634237509549,
+    "stop" : 1634237509630,
+    "duration" : 81
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "425a47b456a8f158",
+  "name" : "[2] 3, true",
+  "time" : {
+    "start" : 1634237514869,
+    "stop" : 1634237514896,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e45265f17a7e9520",
+  "name" : "softAssertionsTest()",
+  "time" : {
+    "start" : 1634237512631,
+    "stop" : 1634237512659,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "193c87c9a0448a8",
+  "name" : "isNumberPrimeWithAssertJTest()",
+  "time" : {
+    "start" : 1634237512387,
+    "stop" : 1634237512402,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab21074599706388",
+  "name" : "removeBallFromBoxWithBalls()",
+  "time" : {
+    "start" : 1634237513579,
+    "stop" : 1634237513600,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "533865a30505d25",
+  "name" : "shouldAnswerWithTrue2()",
+  "time" : {
+    "start" : 1634237510431,
+    "stop" : 1634237510463,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c96008861cffe2ab",
+  "name" : "createExpensesTest()",
+  "time" : {
+    "start" : 1634237814378,
+    "stop" : 1634237814378,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6ff20ba156c0e8c9",
+  "name" : "createContactPositiveTest()",
+  "time" : {
+    "start" : 1634237595537,
+    "stop" : 1634237620438,
+    "duration" : 24901
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48b86643ef6809b3",
   "name" : "createContactTest()",
   "time" : {
-    "start" : 1634225543184,
-    "stop" : 1634225570705,
-    "duration" : 27521
+    "start" : 1634237732266,
+    "stop" : 1634237756390,
+    "duration" : 24124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44f8be835d4527e8",
+  "name" : "loginTest()",
+  "time" : {
+    "start" : 1634237788617,
+    "stop" : 1634237814334,
+    "duration" : 25717
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea4525c499145155",
+  "name" : "Четное число передали в метод...",
+  "time" : {
+    "start" : 1634237515872,
+    "stop" : 1634237515872,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "eb419e7d13afd075",
+  "name" : "[3] 7",
+  "time" : {
+    "start" : 1634237515851,
+    "stop" : 1634237515856,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8276c95d68cb9bd",
+  "name" : "checkRowColorChangesAfterCheckBoxClickTest()",
+  "time" : {
+    "start" : 1634237542981,
+    "stop" : 1634237557969,
+    "duration" : 14988
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec1859b7d830352b",
+  "name" : "shuffleEmptyBoxTest()",
+  "time" : {
+    "start" : 1634237512952,
+    "stop" : 1634237513112,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8c77b93844e2dae",
+  "name" : "trueAssumption2()",
+  "time" : {
+    "start" : 1634237512819,
+    "stop" : 1634237512823,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6909513efa61969",
+  "name" : "collectionAssertJTest()",
+  "time" : {
+    "start" : 1634237510547,
+    "stop" : 1634237512193,
+    "duration" : 1646
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b85d6d5c0fc170c",
+  "name" : "projectNameInUseTest()",
+  "time" : {
+    "start" : 1634237685128,
+    "stop" : 1634237718836,
+    "duration" : 33708
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebdff5b0163dbf80",
+  "name" : "[2] 3",
+  "time" : {
+    "start" : 1634237515738,
+    "stop" : 1634237515747,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66d36f3e54c2b27c",
+  "name" : "shouldAnswerWithTrue2()",
+  "time" : {
+    "start" : 1634237510302,
+    "stop" : 1634237510306,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c79f13ef2f593200",
+  "name" : "positiveSquareCalcTest()",
+  "time" : {
+    "start" : 1634237515916,
+    "stop" : 1634237515919,
+    "duration" : 3
   },
   "status" : "passed",
   "severity" : "normal"

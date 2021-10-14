@@ -1,0 +1,105 @@
+{
+  "uid" : "2b85d6d5c0fc170c",
+  "name" : "projectNameInUseTest()",
+  "fullName" : "com.geekbrains.lesson5.Homework.CreateProjectTest.projectNameInUseTest",
+  "historyId" : "7ace41bf08aaae0461faf0722e6204e7",
+  "time" : {
+    "start" : 1634237685128,
+    "stop" : 1634237718836,
+    "duration" : 33708
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "registerDriver",
+    "time" : {
+      "start" : 1634237620452,
+      "stop" : 1634237620489,
+      "duration" : 37
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setUpBrowser",
+    "time" : {
+      "start" : 1634237685129,
+      "stop" : 1634237694839,
+      "duration" : 9710
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1634237718436,
+      "stop" : 1634237718836,
+      "duration" : 400
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:com.geekbrains.lesson5.Homework.CreateProjectTest]/[method:projectNameInUseTest()]"
+  }, {
+    "name" : "host",
+    "value" : "WIN-37OPUFNO3M0"
+  }, {
+    "name" : "thread",
+    "value" : "7868@WIN-37OPUFNO3M0.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.geekbrains.lesson5.Homework.CreateProjectTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.geekbrains.lesson5.Homework.CreateProjectTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "projectNameInUseTest"
+  }, {
+    "name" : "suite",
+    "value" : "com.geekbrains.lesson5.Homework.CreateProjectTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b85d6d5c0fc170c.json",
+  "parameterValues" : [ ]
+}

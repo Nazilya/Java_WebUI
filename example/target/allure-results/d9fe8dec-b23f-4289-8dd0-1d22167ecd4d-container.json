@@ -1,0 +1,1 @@
+{"uuid":"d9fe8dec-b23f-4289-8dd0-1d22167ecd4d","name":"shuffleEmptyBoxTest()","children":["574a4d0b-bc9b-41fd-85db-0e343eb99696"],"befores":[{"name":"createBox","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1634237513026,"stop":1634237513053}],"afters":[],"start":1634237512946,"stop":1634237513123}
