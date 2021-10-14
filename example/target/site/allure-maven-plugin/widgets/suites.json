@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "93d68d62a3c0e5ee004a2bfae0fd6e01",
+    "name" : "com.geekbrains.lesson6.Login2Test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "e7318b9601ebe17c41ba4e83ea091fc6",
+    "name" : "com.geekbrains.lesson6.CreateProjectTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "55287981a0c6906605d7a09522fa8965",
+    "name" : "com.geekbrains.lesson6.CreateContactTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

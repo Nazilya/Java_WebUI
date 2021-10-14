@@ -1,0 +1,490 @@
+{
+  "uid" : "aa57ce5ee836ab4a",
+  "name" : "loginTest()",
+  "fullName" : "com.geekbrains.lesson6.Login2Test.loginTest",
+  "historyId" : "dba8873d69f095ce468e9c0c68d34b49",
+  "time" : {
+    "start" : 1634224114074,
+    "stop" : 1634224152097,
+    "duration" : 38023
+  },
+  "description" : "Тест создания заявки на расход",
+  "descriptionHtml" : "<p>Тест создания заявки на расход</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Тест создания заявки на расход",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Заполнить поле логина",
+      "time" : {
+        "start" : 1634224120848,
+        "stop" : 1634224120990,
+        "duration" : 142
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "login",
+        "value" : "Applanatest1"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Заполнить поле пароля",
+      "time" : {
+        "start" : 1634224120991,
+        "stop" : 1634224121157,
+        "duration" : 166
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "password",
+        "value" : "Student2020!"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Клик на кнопку 'Войти'",
+      "time" : {
+        "start" : 1634224121158,
+        "stop" : 1634224126360,
+        "duration" : 5202
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Кликаем на элемент с текстом: Войти",
+        "time" : {
+          "start" : 1634224121239,
+          "stop" : 1634224121239,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "ef528ca4cb576298",
+        "name" : "Скриншот страницы",
+        "source" : "ef528ca4cb576298.png",
+        "type" : "image/png",
+        "size" : 21265
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 1
+    }, {
+      "name" : "Открыть пункт навигационного меню",
+      "time" : {
+        "start" : 1634224126362,
+        "stop" : 1634224127058,
+        "duration" : 696
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "menuName",
+        "value" : "Расходы"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Клик на кнопку Расходы",
+      "time" : {
+        "start" : 1634224127065,
+        "stop" : 1634224127462,
+        "duration" : 397
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Кликаем на элемент с текстом: Заявки на расходы",
+        "time" : {
+          "start" : 1634224127134,
+          "stop" : 1634224127134,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "ebe23adb8199eca0",
+        "name" : "Скриншот страницы",
+        "source" : "ebe23adb8199eca0.png",
+        "type" : "image/png",
+        "size" : 76408
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 1
+    }, {
+      "name" : "Клик на кнопку создания заявки на расход",
+      "time" : {
+        "start" : 1634224127463,
+        "stop" : 1634224133389,
+        "duration" : 5926
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Кликаем на элемент с текстом: Создать заявку на расход",
+        "time" : {
+          "start" : 1634224130735,
+          "stop" : 1634224130735,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "2c5b45633a0652e3",
+        "name" : "Скриншот страницы",
+        "source" : "2c5b45633a0652e3.png",
+        "type" : "image/png",
+        "size" : 130378
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 1
+    }, {
+      "name" : "Заполнить поле appointment",
+      "time" : {
+        "start" : 1634224133434,
+        "stop" : 1634224133624,
+        "duration" : 190
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "appointment",
+        "value" : "test"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Выбрать BusinessUnit",
+      "time" : {
+        "start" : 1634224133625,
+        "stop" : 1634224134072,
+        "duration" : 447
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Кликаем на элемент с текстом: Research & Development",
+        "time" : {
+          "start" : 1634224133795,
+          "stop" : 1634224133795,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "44b001926dccab1b",
+        "name" : "Скриншот страницы",
+        "source" : "44b001926dccab1b.png",
+        "type" : "image/png",
+        "size" : 80780
+      } ],
+      "parameters" : [ {
+        "name" : "option",
+        "value" : "Research & Development"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 1
+    }, {
+      "name" : "Выбрать Expenditure",
+      "time" : {
+        "start" : 1634224134072,
+        "stop" : 1634224134534,
+        "duration" : 462
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Кликаем на элемент с текстом: 01101 - ОС: вычислительная техника инфраструктуры",
+        "time" : {
+          "start" : 1634224134253,
+          "stop" : 1634224134253,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "bc81bc26bed431a7",
+        "name" : "Скриншот страницы",
+        "source" : "bc81bc26bed431a7.png",
+        "type" : "image/png",
+        "size" : 79577
+      } ],
+      "parameters" : [ {
+        "name" : "option",
+        "value" : "01101 - ОС: вычислительная техника инфраструктуры"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 1
+    }, {
+      "name" : "Выбрать Currency",
+      "time" : {
+        "start" : 1634224134535,
+        "stop" : 1634224134929,
+        "duration" : 394
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Кликаем на элемент с текстом: Доллар США",
+        "time" : {
+          "start" : 1634224134672,
+          "stop" : 1634224134672,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "2e5b229fd293a161",
+        "name" : "Скриншот страницы",
+        "source" : "2e5b229fd293a161.png",
+        "type" : "image/png",
+        "size" : 80564
+      } ],
+      "parameters" : [ {
+        "name" : "option",
+        "value" : "Доллар США"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 1
+    }, {
+      "name" : "Заполнить сумму",
+      "time" : {
+        "start" : 1634224134929,
+        "stop" : 1634224135070,
+        "duration" : 141
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "sum",
+        "value" : "100"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Выбрать планируемую дату",
+      "time" : {
+        "start" : 1634224135071,
+        "stop" : 1634224136143,
+        "duration" : 1072
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Кликаем на элемент с текстом: ",
+        "time" : {
+          "start" : 1634224135125,
+          "stop" : 1634224135125,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "Кликаем на элемент с текстом: 15",
+        "time" : {
+          "start" : 1634224135880,
+          "stop" : 1634224135880,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "bbe5e5f87587f002",
+        "name" : "Скриншот страницы",
+        "source" : "bbe5e5f87587f002.png",
+        "type" : "image/png",
+        "size" : 92613
+      }, {
+        "uid" : "1936c7f1c1fc6b8a",
+        "name" : "Скриншот страницы",
+        "source" : "1936c7f1c1fc6b8a.png",
+        "type" : "image/png",
+        "size" : 95348
+      } ],
+      "parameters" : [ {
+        "name" : "dayNumber",
+        "value" : "15"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "hasContent" : true,
+      "stepsCount" : 2
+    }, {
+      "name" : "Клик на кнопку Сохранить и закрыть",
+      "time" : {
+        "start" : 1634224136144,
+        "stop" : 1634224136520,
+        "duration" : 376
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Кликаем на элемент с текстом: Сохранить и закрыть",
+        "time" : {
+          "start" : 1634224136210,
+          "stop" : 1634224136210,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "7290ce3b85804a06",
+        "name" : "Скриншот страницы",
+        "source" : "7290ce3b85804a06.png",
+        "type" : "image/png",
+        "size" : 103544
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9,
+    "hasContent" : true,
+    "stepsCount" : 22
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:com.geekbrains.lesson6.Login2Test]/[method:loginTest()]"
+  }, {
+    "name" : "story",
+    "value" : "Заявка на расход"
+  }, {
+    "name" : "host",
+    "value" : "WIN-37OPUFNO3M0"
+  }, {
+    "name" : "thread",
+    "value" : "6040@WIN-37OPUFNO3M0.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.geekbrains.lesson6.Login2Test"
+  }, {
+    "name" : "testClass",
+    "value" : "com.geekbrains.lesson6.Login2Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "suite",
+    "value" : "com.geekbrains.lesson6.Login2Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "234",
+    "url" : "https://example.org/tms/234",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa57ce5ee836ab4a.json",
+  "parameterValues" : [ ]
+}

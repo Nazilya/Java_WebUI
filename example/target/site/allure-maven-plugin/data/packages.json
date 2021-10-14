@@ -1,0 +1,60 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.geekbrains.lesson6",
+    "children" : [ {
+      "name" : "Login2Test",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "aa57ce5ee836ab4a",
+        "parentUid" : "8c1b64e2045096ba8cb2329cead362fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634224114074,
+          "stop" : 1634224152097,
+          "duration" : 38023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8c1b64e2045096ba8cb2329cead362fe"
+    }, {
+      "name" : "CreateProjectTest",
+      "children" : [ {
+        "name" : "createProjectTest",
+        "uid" : "9aa8499f22a7e41d",
+        "parentUid" : "04b58a206220e708b04ba1e18b763704",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634225470256,
+          "stop" : 1634225511689,
+          "duration" : 41433
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "04b58a206220e708b04ba1e18b763704"
+    }, {
+      "name" : "CreateContactTest",
+      "children" : [ {
+        "name" : "createContactTest",
+        "uid" : "5489924dfe4c71a",
+        "parentUid" : "3756f716bd37fd78ba3a82f29c545eeb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634225543184,
+          "stop" : 1634225570705,
+          "duration" : 27521
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3756f716bd37fd78ba3a82f29c545eeb"
+    } ],
+    "uid" : "com.geekbrains.lesson6"
+  } ]
+}

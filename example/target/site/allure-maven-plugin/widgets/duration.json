@@ -1,0 +1,31 @@
+[ {
+  "uid" : "9aa8499f22a7e41d",
+  "name" : "createProjectTest()",
+  "time" : {
+    "start" : 1634225470256,
+    "stop" : 1634225511689,
+    "duration" : 41433
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5489924dfe4c71a",
+  "name" : "createContactTest()",
+  "time" : {
+    "start" : 1634225543184,
+    "stop" : 1634225570705,
+    "duration" : 27521
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa57ce5ee836ab4a",
+  "name" : "loginTest()",
+  "time" : {
+    "start" : 1634224114074,
+    "stop" : 1634224152097,
+    "duration" : 38023
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

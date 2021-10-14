@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Oct 14 20:31:10 YEKT 2021","Thu Oct 14 20:31:51 YEKT 2021","41433","","com.geekbrains.lesson6.CreateProjectTest","","com.geekbrains.lesson6.CreateProjectTest","createProjectTest","createProjectTest()","Тест создания проекта"
+"passed","Thu Oct 14 20:32:23 YEKT 2021","Thu Oct 14 20:32:50 YEKT 2021","27521","","com.geekbrains.lesson6.CreateContactTest","","com.geekbrains.lesson6.CreateContactTest","createContactTest","createContactTest()",""
+"passed","Thu Oct 14 20:08:34 YEKT 2021","Thu Oct 14 20:09:12 YEKT 2021","38023","","com.geekbrains.lesson6.Login2Test","","com.geekbrains.lesson6.Login2Test","loginTest","loginTest()","Тест создания заявки на расход"

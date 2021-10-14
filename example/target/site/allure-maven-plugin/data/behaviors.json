@@ -1,0 +1,56 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Заявка на расход",
+    "children" : [ {
+      "name" : "loginTest()",
+      "uid" : "aa57ce5ee836ab4a",
+      "parentUid" : "67caf0544e4d506e545e289b3e5fea4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634224114074,
+        "stop" : 1634224152097,
+        "duration" : 38023
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "67caf0544e4d506e545e289b3e5fea4a"
+  }, {
+    "name" : "Ссоздание проекта",
+    "children" : [ {
+      "name" : "createProjectTest()",
+      "uid" : "9aa8499f22a7e41d",
+      "parentUid" : "e913e161e93915cfea54cbb34a94dfb8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634225470256,
+        "stop" : 1634225511689,
+        "duration" : 41433
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e913e161e93915cfea54cbb34a94dfb8"
+  }, {
+    "name" : "Создание контактного лица",
+    "children" : [ {
+      "name" : "createContactTest()",
+      "uid" : "5489924dfe4c71a",
+      "parentUid" : "eb3e55073bee51abff62e81f4dc8a380",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634225543184,
+        "stop" : 1634225570705,
+        "duration" : 27521
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "eb3e55073bee51abff62e81f4dc8a380"
+  } ]
+}
