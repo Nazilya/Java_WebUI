@@ -5,7 +5,7 @@
     "name" : "Заявка на расход",
     "children" : [ {
       "name" : "loginTest()",
-      "uid" : "aa57ce5ee836ab4a",
+      "uid" : "7abc13669b3d70db",
       "parentUid" : "67caf0544e4d506e545e289b3e5fea4a",
       "status" : "passed",
       "time" : {
@@ -22,7 +22,7 @@
     "name" : "Ссоздание проекта",
     "children" : [ {
       "name" : "createProjectTest()",
-      "uid" : "9aa8499f22a7e41d",
+      "uid" : "b3328ecff3db570f",
       "parentUid" : "e913e161e93915cfea54cbb34a94dfb8",
       "status" : "passed",
       "time" : {
@@ -39,7 +39,7 @@
     "name" : "Создание контактного лица",
     "children" : [ {
       "name" : "createContactTest()",
-      "uid" : "5489924dfe4c71a",
+      "uid" : "379e0f6159df4e84",
       "parentUid" : "eb3e55073bee51abff62e81f4dc8a380",
       "status" : "passed",
       "time" : {

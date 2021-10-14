@@ -1,5 +1,5 @@
 [ {
-  "uid" : "9aa8499f22a7e41d",
+  "uid" : "b3328ecff3db570f",
   "name" : "createProjectTest()",
   "time" : {
     "start" : 1634225470256,
@@ -9,22 +9,22 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5489924dfe4c71a",
-  "name" : "createContactTest()",
-  "time" : {
-    "start" : 1634225543184,
-    "stop" : 1634225570705,
-    "duration" : 27521
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "aa57ce5ee836ab4a",
+  "uid" : "7abc13669b3d70db",
   "name" : "loginTest()",
   "time" : {
     "start" : 1634224114074,
     "stop" : 1634224152097,
     "duration" : 38023
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "379e0f6159df4e84",
+  "name" : "createContactTest()",
+  "time" : {
+    "start" : 1634225543184,
+    "stop" : 1634225570705,
+    "duration" : 27521
   },
   "status" : "passed",
   "severity" : "normal"

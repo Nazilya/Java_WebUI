@@ -5,7 +5,7 @@
     "name" : "com.geekbrains.lesson6.Login2Test",
     "children" : [ {
       "name" : "loginTest()",
-      "uid" : "aa57ce5ee836ab4a",
+      "uid" : "7abc13669b3d70db",
       "parentUid" : "93d68d62a3c0e5ee004a2bfae0fd6e01",
       "status" : "passed",
       "time" : {
@@ -22,7 +22,7 @@
     "name" : "com.geekbrains.lesson6.CreateProjectTest",
     "children" : [ {
       "name" : "createProjectTest()",
-      "uid" : "9aa8499f22a7e41d",
+      "uid" : "b3328ecff3db570f",
       "parentUid" : "e7318b9601ebe17c41ba4e83ea091fc6",
       "status" : "passed",
       "time" : {
@@ -39,7 +39,7 @@
     "name" : "com.geekbrains.lesson6.CreateContactTest",
     "children" : [ {
       "name" : "createContactTest()",
-      "uid" : "5489924dfe4c71a",
+      "uid" : "379e0f6159df4e84",
       "parentUid" : "55287981a0c6906605d7a09522fa8965",
       "status" : "passed",
       "time" : {

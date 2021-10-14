@@ -18,7 +18,7 @@ public class Login2Test extends BaseTest {
     @Test
     @Description("Тест создания заявки на расход")
     @TmsLink("234")
-    void loginTest() throws InterruptedException {
+    void loginTest() {
         new LoginPage(webDriver)
                 .fillLogin("Applanatest1")
                 .fillPassword("Student2020!")
@@ -41,7 +41,6 @@ public class Login2Test extends BaseTest {
         webDriverWait.until(ExpectedConditions.invisibilityOf(webDriver.findElement(By.xpath("//div[@class='loader-frame well']"))));
         Assertions.assertTrue(webDriver.findElement(By.xpath("//*[.='Заявка на расход сохранена']")).isDisplayed());
 
-        Thread.sleep(3000);
         //webDriver.get("https://afisha.ru");
     }
 }

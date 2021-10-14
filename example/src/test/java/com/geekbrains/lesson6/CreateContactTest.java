@@ -14,7 +14,7 @@ public class CreateContactTest extends BaseTest {
         webDriver.get("https://crm.geekbrains.space/");
     }
     @Test
-    void createContactTest() throws InterruptedException {
+    void createContactTest() {
         new LoginPage(webDriver)
                 .fillLogin("Applanatest1")
                 .fillPassword("Student2020!")
@@ -32,6 +32,5 @@ public class CreateContactTest extends BaseTest {
         webDriverWait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[.='Контактное лицо сохранено']")));
         Assertions.assertTrue(webDriver.findElement(By.xpath("//div[.='Контактное лицо сохранено']")).isDisplayed());
 
-        Thread.sleep(3000);
     }
 }
