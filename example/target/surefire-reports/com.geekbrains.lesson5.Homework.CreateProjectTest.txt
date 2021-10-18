@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.geekbrains.lesson5.Homework.CreateProjectTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 98.375 s - in com.geekbrains.lesson5.Homework.CreateProjectTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 52.563 s - in com.geekbrains.lesson5.Homework.CreateProjectTest
