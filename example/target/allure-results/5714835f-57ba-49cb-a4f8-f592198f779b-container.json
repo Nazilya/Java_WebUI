@@ -1,0 +1,1 @@
+{"uuid":"5714835f-57ba-49cb-a4f8-f592198f779b","name":"removeBallFromEmptyBoxTest()","children":["c9140053-c61c-40ee-ab5b-1117a78d00de"],"befores":[{"name":"createBox","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1634592267650,"stop":1634592267650}],"afters":[],"start":1634592267644,"stop":1634592267654}
