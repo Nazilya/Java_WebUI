@@ -23,18 +23,3 @@ Feature: create project request
     Examples:
       | name  |
       | test1  |
-
-
-#
-
-#  .fillprojectName("test")
-#  .organizationClick()
-#  .organizationTypeClick()
-#  .selectPriority("Высокий")
-#  .selectFinanceSource("Инвестиции")
-#  .selectBusinessUnit("Research & Development")
-#  .selectCurator("Скоробогатова Юлия")
-#  .selectRp("Зайдуллин Рустам")
-#  .selectAdministrator("Горячев Алексей")
-#  .selectManager("Исаева Анастасия")
-#  .saveAndCloseButtonClick();
